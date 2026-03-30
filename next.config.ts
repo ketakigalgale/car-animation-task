@@ -1,7 +1,7 @@
-const nextConfig = {
-  output: "export",
-  basePath: "/car-animation-task",
-  assetPrefix: "/car-animation-task/",
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
 };
 
 export default nextConfig;
