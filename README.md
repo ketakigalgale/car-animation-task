@@ -6,7 +6,7 @@ A high-performance, scroll-synced hero animation built using **Next.js, TypeScri
 
 ## 🌐 Live Demo
 
-🔗 https://your-project.vercel.app
+🔗https://car-animation-task-4bem.vercel.app/
 
 ---
 
@@ -117,36 +117,9 @@ Deployed using **Vercel** for seamless Next.js support and optimal performance.
 
 ---
 
-## 📸 Screenshots
 
-<!-- Add your project screenshots here -->
 
-<!-- Example:
-![Preview](./public/screenshot.png)
--->
 
----
-
-## 📌 Future Improvements
-
-* Add mobile gesture-based animations
-* Improve accessibility (reduced motion support)
-* Add advanced effects (parallax, depth, blur)
-* Further performance optimization for low-end devices
-
----
-
-## 👩‍💻 Author
-
-**Ketaki Galgale**
-
-* GitHub: https://github.com/ketakigalgale
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
 
 
 
