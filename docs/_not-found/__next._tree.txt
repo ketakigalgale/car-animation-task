@@ -1,0 +1,2 @@
+:HL["/car-animation-task/_next/static/chunks/10yy8vpsy1f6~.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"IusU_CcziPdXX_m3aosXp"}
